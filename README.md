@@ -1,7 +1,7 @@
 
-👋 Hi, I'm LondonChipset
+👋 Hi, folks , this is chipsetfoundation
 
-💻 **STA & Physical Design Engineer**  
+💻 *VLSI *STA & Physical Design **  
 🔹 Skilled in **EDA Tools**  
 🔹 Scripting: **TCL**, **Shell**  
 🔹 Passionate about automating timing, PPA optimization, and ECO flows  
