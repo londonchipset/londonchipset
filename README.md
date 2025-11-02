@@ -1,5 +1,5 @@
 
-👋 Hi, I'm London Laishangbam (aka LondonChipset)
+👋 Hi, I'm LondonChipset
 
 💻 **STA & Physical Design Engineer**  
 🔹 Skilled in **EDA Tools**  
@@ -24,7 +24,7 @@
 ---
 
 ### 📫 Connect with Me
-🌐 [LinkedIn](https://linkedin.com/in/londonlaishangbam)  
+🌐 [LinkedIn](https://linkedin.com/in/)  
 
 ---
 
